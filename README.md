@@ -2,7 +2,7 @@
 <h4 align="left">Some quick facts about me, I've always been a very curious person eager to learn and a long time tech and gaming enthusiast.
 <br>I’m looking to collaborate on all the projects that can improve my skills and help me learn.</h4>
 
-<br><img align="right" alt="digoncal" width="400" src="https://badge.mediaplus.ma/darkblue/digoncal?1337Badge=off&UM6P=off">
+<img align="right" alt="digoncal" width="400" src="https://badge.mediaplus.ma/darkblue/digoncal?1337Badge=off&UM6P=off">
 
 ### About Me:
 - 💻 Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;|&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;-&nbsp;WIP
