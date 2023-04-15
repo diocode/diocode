@@ -22,5 +22,5 @@ I’m looking to collaborate on all the projects that can improve my skills and 
 </p>
 <br>
 <div align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=diocode&show_icons=true&theme=transparent&text_color=FFFFFF&hide_border=true&count_private=true">&nbsp;<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diocode&theme=transparent&hide_border=true&text_color=FFFFFF&layout=compact">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=diocode&show_icons=true&theme=transparent&text_color=FFFFFF&hide_border=true&count_private=true">&nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diocode&theme=transparent&hide_border=true&text_color=FFFFFF&layout=compact">
 </div>
