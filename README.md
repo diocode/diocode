@@ -6,10 +6,10 @@ I’m looking to collaborate on all the projects that can improve my skills and 
 <br>
 
 ### About Me:
-- 💻 Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;|&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;-&nbsp;WIP
-- 👨‍💻 Learning Full Stack Development
-- 🧠 Currently completing the `Common Core` at 42 Porto
-- 📩 Reach me at **diogoemail97@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/diogo-gsilva/)
+- 💻 &nbsp; Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;|&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;-&nbsp;WIP
+- 👨‍💻 &nbsp; Learning Full Stack Development
+- 🧠 &nbsp; Currently completing the `Common Core` at 42 Porto
+- 📩 &nbsp; Reach me at **diogoemail97@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/diogo-gsilva/)
 
 <br>
 
