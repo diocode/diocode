@@ -1,5 +1,5 @@
 ## Hello! I’m Diogo
-<h4 align="left">Some quick facts about me, I've always been a very curious person eager to learn and a long time tech and gaming enthusiast.
+<h4 align="left">Some quick facts about me, I've always been a very curious person eager to learn.
 I’m looking to collaborate on all the projects that can improve my skills and help me learn.</h4>
 
 <img align="right" alt="digoncal" width="380" src="https://badge.mediaplus.ma/darkblue/digoncal?1337Badge=off&UM6P=off">
