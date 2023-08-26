@@ -2,8 +2,7 @@
 <h4 align="left">Some quick facts about me, I've always been a very curious person eager to learn.
 I’m looking to collaborate on all the projects that can improve my skills and help me learn.</h4>
 
-<img align="right" alt="digoncal" width="380" src="https://badge.mediaplus.ma/darkblue/digoncal?1337Badge=off&UM6P=off">
-<br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="diogo-gsilva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/diogo-gsilva?trk=profile-badge">Diogo Silva</a></div>
 
 ### About Me:
 - 💻 &nbsp; Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;|&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;-&nbsp;WIP
