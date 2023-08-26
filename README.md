@@ -2,10 +2,6 @@
 <h4 align="left">Some quick facts about me, I've always been a very curious person eager to learn.
 I’m looking to collaborate on all the projects that can improve my skills and help me learn.</h4>
 
-<!--<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>-->
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="diogo-gsilva" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pt.linkedin.com/in/diogo-gsilva?trk=profile-badge">Diogo Silva</a></div>
-
 ### About Me:
 - 💻 &nbsp; Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;|&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;-&nbsp;WIP
 - 👨‍💻 &nbsp; Learning Full Stack Development
