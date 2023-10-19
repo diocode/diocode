@@ -1,7 +1,7 @@
 ![about me banner](https://github.com/diocode/diocode/assets/107859177/5586d890-2464-4006-b9a2-6c9a3f7a6fa2)
 
 ## About Me:
-I'm **Diogo Silva**, and I bring four years of experience as a graphic designer. However, my passion for programming and technology has been a constant driving force in my journey. Currently, I'm pursuing **Full Stack Development** at 42 Porto.
+I'm **Diogo Silva**, and I have four years of experience as a graphic designer. However, my passion for programming and technology has been a constant driving force in my journey. Currently, I'm pursuing **Full Stack Development** at 42 Porto.
 My programming journey started with **Python** and **C**, and I'm now expanding my skills into **C++**. With a strong desire to tackle challenges head-on, I'm always eager to learn and grow.
 
 <br>
