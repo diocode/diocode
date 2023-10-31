@@ -61,6 +61,7 @@ My programming journey started with **Python** and **C**, and I'm now expanding 
 <summary style="font-size: 2.5em;"> <b>42 Common Core</b></summary>
   
 ### Individual Projects
+- [Minishell](https://github.com/diocode/42-Minishell) -> creating a simple shell - in Progress..
 - [Philosophers](https://github.com/diocode/42-Philosophers) -> The philosopher dinning problem
 - [So_long](https://github.com/diocode/42-So_long) -> A 2D retro game
 - [Push_Swap](https://github.com/diocode/42-Push_swap) -> Sorting data on a stack, with a limited set of instructions
@@ -69,9 +70,9 @@ My programming journey started with **Python** and **C**, and I'm now expanding 
 - [Get_next_line](https://github.com/diocode/42-Get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
 - [Libft](https://github.com/diocode/42-Libft) -> A C library
 
+<!---
 ### Group Projects
-- [Minishell](https://github.com/diocode/42-Minishell) -> creating a simple shell - in Progress..
-
+-->
 
 
 
