@@ -61,6 +61,7 @@ My programming journey started with **Python** and **C**, and I'm now expanding 
 <summary style="font-size: 2.5em;"> <b>42 Common Core</b></summary>
   
 ### Individual Projects
+- [C++](https://github.com/diocode/42-cpp) -> Exercises done to learn C++  - in Progress..
 - [Minishell](https://github.com/diocode/42-Minishell) -> creating a simple shell - in Progress..
 - [Philosophers](https://github.com/diocode/42-Philosophers) -> The philosopher dinning problem
 - [So_long](https://github.com/diocode/42-So_long) -> A 2D retro game
