@@ -2,7 +2,7 @@
 
 ## About Me:
 I'm **Diogo Silva**, and I have four years of experience as a graphic designer. However, my passion for programming and technology has been a constant driving force in my journey. Currently, I'm pursuing **Full Stack Development** at 42 Porto.
-My programming journey started with **Python** and **C**, and I'm now expanding my skills into **C++**. With a strong desire to tackle challenges head-on, I'm always eager to learn and grow.
+My programming journey started with **C** and **C++**, and I'm now expanding my skills into **Python**. With a strong desire to tackle challenges head-on, I'm always eager to learn and grow.
 
 <br>
 
