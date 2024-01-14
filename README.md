@@ -6,7 +6,7 @@ My programming journey started with **Python** and **C**, and I'm now expanding 
 
 <br>
 
-- 💻 &nbsp; Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;`Python`&nbsp;|&nbsp;&nbsp;`C++`&nbsp;&nbsp;-&nbsp;work in progress
+- 💻 &nbsp; Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;&nbsp;
 - 👨‍💻 &nbsp; Learning Full Stack Development
 - 🧠 &nbsp; Currently completing the `Common Core` at [**42 Porto**](https://www.42porto.com/en/)
 - 📩 &nbsp; Reach me at **diogoemail97@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/diogo-gsilva/)
