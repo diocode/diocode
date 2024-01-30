@@ -62,7 +62,7 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
   
 ### Individual Projects
 - [C++](https://github.com/diocode/42-cpp) -> Exercises done to learn C++  - in Progress..
-- [Minishell](https://github.com/diocode/42-Minishell) -> creating a simple shell
+- [Minishell](https://github.com/diocode/42-Minishell) -> recreate the bash terminal
 - [Philosophers](https://github.com/diocode/42-Philosophers) -> The philosopher dinning problem
 - [So_long](https://github.com/diocode/42-So_long) -> A 2D retro game
 - [Push_Swap](https://github.com/diocode/42-Push_swap) -> Sorting data on a stack, with a limited set of instructions
