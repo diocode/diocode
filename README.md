@@ -71,9 +71,9 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 - [Get_next_line](https://github.com/diocode/42-Get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
 - [Libft](https://github.com/diocode/42-Libft) -> A C library
 
-<!---
+
 ### Group Projects
--->
+- [Cub3D](https://github.com/diocode/42-Cub3D) -> A 3D game using raytracing - in progress..
 
 
 
