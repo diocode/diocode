@@ -22,7 +22,7 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 
 ## Projects:
 
-<details>
+<details open>
 <summary style="font-size: 2.5em;"> <b>Python</b></summary>
   
 ### Projects
@@ -36,7 +36,7 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 
 </details>
 
-<details open>
+<details>
 <summary style="font-size: 2.5em;"> <b>42 Piscine</b></summary>
 
 ### Individual Projects
