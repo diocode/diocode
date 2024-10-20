@@ -29,12 +29,14 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 - [Snake_Game](https://github.com/diocode/snake_game) -> Classic snake game
 - [Password_checker](https://github.com/diocode/password_checker) -> Password validator
 - [CS50_Python](https://github.com/diocode/CS50_Python) -> All the exercises from CS50 Python
+- [Chatbot](https://github.com/diocode/bot42) -> A slack bot that shows you all the information about students
+
 
 <br>
 
 </details>
 
-<details>
+<details open>
 <summary style="font-size: 2.5em;"> <b>42 Piscine</b></summary>
 
 ### Individual Projects
@@ -74,8 +76,5 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 
 ### Group Projects
 - [Cub3D](https://github.com/diocode/42-Cub3D) -> A 3D game using raycasting - in progress..
-
-### Personal Projects
-- [Chatbot](https://github.com/diocode/bot42) -> A slack bot that shows you all the information about students
 
 
