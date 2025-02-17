@@ -75,6 +75,7 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 
 
 ### Group Projects
-- [Cub3D](https://github.com/diocode/42-Cub3D) -> A 3D game using raycasting - in progress..
+- [Cub3D](https://github.com/diocode/42-Cub3D) -> A 3D game using raycasting
+- [Cub3D](https://github.com/diocode/42-irc) -> A text-based communication protocol on the Internet
 
 
