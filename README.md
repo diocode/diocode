@@ -36,29 +36,6 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 
 </details>
 
-<details>
-<summary style="font-size: 2.5em;"> <b>42 Piscine</b></summary>
-
-### Individual Projects
-- [Shell00](https://github.com/diocode/42-Piscine/tree/main/shell_00)
-- [Shell01](https://github.com/diocode/42-Piscine/tree/main/shell_01)
-- [C00](https://github.com/diocode/42-Piscine/tree/main/c00)
-- [C01](https://github.com/diocode/42-Piscine/tree/main/c01)
-- [C02](https://github.com/diocode/42-Piscine/tree/main/c02)
-- [C03](https://github.com/diocode/42-Piscine/tree/main/c03)
-- [C04](https://github.com/diocode/42-Piscine/tree/main/c04)
-- [C05](https://github.com/diocode/42-Piscine/tree/main/c05)
-- [C06](https://github.com/diocode/42-Piscine/tree/main/c06)
-- [C07](https://github.com/diocode/42-Piscine/tree/main/c07)
-- [C08](https://github.com/diocode/42-Piscine/tree/main/c08)
-
-### Group Projects
-- [Rush00](https://github.com/diocode/42-Piscine/tree/main/rush00)
-
-<br>
-
-</details>
-
 <details open>
 <summary style="font-size: 2.5em;"> <b>42 Common Core</b></summary>
   
