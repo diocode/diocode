@@ -30,7 +30,6 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 - [Password_checker](https://github.com/diocode/password_checker) -> Password validator
 - [CS50_Python](https://github.com/diocode/CS50_Python) -> All the exercises from CS50 Python
 - [Slack Manager Bot](https://github.com/diocode/slack_manager_bot) -> A slack bot that shows you all the information about students
-- [Slack Manager Bot]
 
 
 <br>
