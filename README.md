@@ -45,6 +45,7 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 
 
 ### Individual Projects
+- [Inception](https://github.com/diocode/42-Inception) -> work in progress...
 - [C++](https://github.com/diocode/42-cpp) -> Exercises done to learn C++
 - [Minishell](https://github.com/diocode/42-Minishell) -> recreate the bash terminal
 - [Philosophers](https://github.com/diocode/42-Philosophers) -> The philosopher dinning problem
