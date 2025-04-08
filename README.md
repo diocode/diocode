@@ -3,7 +3,7 @@
 ## About Me:
 Hi, I’m **Diogo Silva** — a software developer with a background in design, now focused on **back-end development** at 42 Porto. I started with **C** and **C++**, and have since added **Python**, **MySQL**, and **API** work to my toolkit.
 
-I enjoy writing clean code, solving problems, and learning new technologies. I’ve also mentored other students in C programming, which helped grow my teamwork and communication skills.
+I enjoy writing clean code, solving problems, and learning new technologies.
 Check out my projects to see what I’ve been working on!
 
 <br>
