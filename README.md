@@ -1,9 +1,8 @@
 ![about me banner](https://github.com/diocode/diocode/assets/107859177/5586d890-2464-4006-b9a2-6c9a3f7a6fa2)
 
 ## About Me:
-Hi, I’m **Diogo Silva** — a software developer with a background in design, now focused on **back-end development** at 42 Porto. I started with **C** and **C++**, and have since added **Python**, **MySQL**, and **API** work to my toolkit.
+Hi, I’m **Diogo Silva** — a software developer with a background in design, now focused on **back-end development** at 42 Porto. I started with **C** and **C++**, and have since added **Python**, **MySQL**, and **API** work to my toolkit. I enjoy writing clean code, solving problems, and learning new technologies.
 
-I enjoy writing clean code, solving problems, and learning new technologies.
 Check out my projects to see what I’ve been working on!
 
 <br>
