@@ -30,6 +30,7 @@ Check out my projects to see what I’ve been working on!
 - [Slack Manager Bot](https://github.com/diocode/slack_manager_bot) -> A slack bot that shows you all the information about students
 - [Snake_Game](https://github.com/diocode/snake_game) -> Classic snake game
 - [Password_checker](https://github.com/diocode/password_checker) -> Password validator
+- [Ai content recomendations](https://github.com/diocode/hackathon7.1) -> Ai powered content recomendation for Joyn's streaming platform
 
 <br>
 
