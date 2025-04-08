@@ -10,6 +10,7 @@ Check out my projects to see what I’ve been working on!
 - 💻 &nbsp; Languages:&nbsp;&nbsp;`C`&nbsp;&nbsp;`C++`&nbsp;&nbsp;`Python`&nbsp;&nbsp;
 - 👨‍💻 &nbsp; Learning Back-end Development
 - 🧠 &nbsp; Currently completing the `Common Core` at [**42 Porto**](https://www.42porto.com/en/)
+- 📄 &nbsp; Check my CV here:  [**cv.pdf**](https://drive.google.com/file/d/1tnor_GicZYQyO3mBWq_EO9xZ56V7Tw6u/view?usp=drive_link)
 - 📩 &nbsp; Reach me at **diogoemail97@gmail.com** or [**LinkedIn**](https://www.linkedin.com/in/diogo-gsilva/)
 
 <br>
