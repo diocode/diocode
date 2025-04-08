@@ -29,8 +29,6 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 - [Slack Manager Bot](https://github.com/diocode/slack_manager_bot) -> A slack bot that shows you all the information about students
 - [Snake_Game](https://github.com/diocode/snake_game) -> Classic snake game
 - [Password_checker](https://github.com/diocode/password_checker) -> Password validator
-- [CS50_Python](https://github.com/diocode/CS50_Python) -> All the exercises from CS50 Python
-
 
 <br>
 
@@ -51,9 +49,6 @@ My programming journey started with **C** and **C++**, and I'm now expanding my 
 - [Philosophers](https://github.com/diocode/42-Philosophers) -> The philosopher dinning problem
 - [So_long](https://github.com/diocode/42-So_long) -> A 2D retro game
 - [Push_Swap](https://github.com/diocode/42-Push_swap) -> Sorting data on a stack, with a limited set of instructions
-- [Minitalk](https://github.com/diocode/42-Minitalk) -> A small data exchange program using UNIX signals
-- [Ft_printf](https://github.com/diocode/42-Ft_printf) -> Recoding the printf
-- [Get_next_line](https://github.com/diocode/42-Get_next_line) -> Reading content line by line from a file, stdin, or even a network connection
 - [Libft](https://github.com/diocode/42-Libft) -> A C library
 
 
