@@ -46,7 +46,7 @@ Check out my projects to see what I’ve been working on!
 
 
 ### Individual Projects
-- [Inception](https://github.com/diocode/42-Inception) -> work in progress...
+- [Inception](https://github.com/diocode/42-Inception) -> Secure Docker-based web infrastructure.
 - [C++](https://github.com/diocode/42-cpp) -> Exercises done to learn C++
 - [Minishell](https://github.com/diocode/42-Minishell) -> recreate the bash terminal
 - [Philosophers](https://github.com/diocode/42-Philosophers) -> The philosopher dinning problem
